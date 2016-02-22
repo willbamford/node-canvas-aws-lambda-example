@@ -1,0 +1,22 @@
+{
+  "name": "node-canvas-aws-lambda-example",
+  "version": "1.0.0",
+  "description": "Node canvas AWS Lambda example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebSeed/node-canvas-aws-lambda-example.git"
+  },
+  "author": "Will Bamford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebSeed/node-canvas-aws-lambda-example/issues"
+  },
+  "homepage": "https://github.com/WebSeed/node-canvas-aws-lambda-example#readme",
+  "dependencies": {
+    "canvas": "^1.3.10"
+  }
+}
