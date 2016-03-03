@@ -13,3 +13,4 @@ However, to get this working for node-canvas I used dynamic linking with `rpath`
 [src](src/) contains the compiled shared object files and [index.js](src/index.js) which contains the the lambda function (`index.handler`).
 
 [dist](dist/) is just the contents of [src](src/) compressed into a zip file which should be ready to upload to AWS Lambda.
+
