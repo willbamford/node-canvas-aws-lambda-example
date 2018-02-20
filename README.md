@@ -1,4 +1,4 @@
-# DEPRECATED - now this no longer works (since AWS Lambda upgraded from Node 0.10 to Node 4.3+)
+# DEPRECATED - this no longer works (since AWS Lambda upgraded from Node 0.10 to Node 4.3+)
 
 # Node canvas AWS Lambda example
 
