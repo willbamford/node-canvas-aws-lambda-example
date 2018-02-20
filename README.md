@@ -1,5 +1,7 @@
 # DEPRECATED - this no longer works (since AWS Lambda upgraded from Node 0.10 to Node 4.3+)
 
+See: https://github.com/Automattic/node-canvas/wiki/Installation---AWS-Lambda
+
 # Node canvas AWS Lambda example
 
 Example of using AWS Lambda with [node-canvas](https://github.com/Automattic/node-canvas). `node-canvas` has a dependency on [Cairo](http://cairographics.org/) which is a native library with other native library dependencies which aren't currently available on the current [AWS Lambda AMI (2015.09)](http://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html).
