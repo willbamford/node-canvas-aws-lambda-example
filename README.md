@@ -1,6 +1,6 @@
-# DEPRECATED - this no longer works (since AWS Lambda upgraded from Node 0.10 to Node 4.3+)
+# DEPRECATED - take a look at https://github.com/Automattic/node-canvas/wiki/Installation---AWS-Lambda instead
 
-See: https://github.com/Automattic/node-canvas/wiki/Installation---AWS-Lambda
+This no longer works since AWS Lambda upgraded from Node 0.10 to Node 4.3+.
 
 # Node canvas AWS Lambda example
 
